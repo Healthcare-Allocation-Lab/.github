@@ -1,8 +1,5 @@
 # Healthcare Allocation Lab
 
-| **Heart** | **Kidney** |
-|---|---|---|
-| <ul><li>[project-a]</li><li> |
 
 [project-a]: (https://github.com/Healthcare-Allocation-Lab/mixed_effects_survival_benefit_heart_tx)
 [New Heart Allocation Policy](https://github.com/Healthcare-Allocation-Lab/new_heart_allocation_policy)
