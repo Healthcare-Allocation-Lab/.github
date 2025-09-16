@@ -2,7 +2,7 @@
 
 ### Heart Allocation Projects
 
-* [Center Variation in Survival Benefit]: (https://github.com/Healthcare-Allocation-Lab/mixed_effects_survival_benefit_heart_tx)
+* [Center Variation in Survival Benefit](https://github.com/Healthcare-Allocation-Lab/mixed_effects_survival_benefit_heart_tx)
 * [New Heart Allocation Policy](https://github.com/Healthcare-Allocation-Lab/new_heart_allocation_policy)
 * [Center Variation in High Priority Status](https://github.com/Healthcare-Allocation-Lab/geo_var_heart_tx_list_)
 * [Post Transplant Survival After 2018 Policy Change](https://github.com/Healthcare-Allocation-Lab/post_transplant_survival_new_policy)
