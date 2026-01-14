@@ -1,4 +1,7 @@
 # Healthcare Allocation Lab
+Welcome to the GitHub repository for the Healthcare Allocation (HCA) Lab. The HCA Lab is a data science laboratory that conducts biostatistical research examining allocation of absolutely scarce healthcare resources. We strive to contribute to the improvement of equity in healthcare allocation by designing algorithmic allocation systems that are based in fundamental ethical principles and evaluating the effects of current allocation policies and procedures on patients’ health and well-being in the real world.
+
+For more information on our lab's projects, please visit the data files linked below. 
 
 ### Heart Allocation Projects
 
