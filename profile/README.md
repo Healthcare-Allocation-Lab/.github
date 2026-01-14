@@ -3,8 +3,6 @@ Welcome to the GitHub repository for the Healthcare Allocation (HCA) Lab. The HC
 
 For more information on specific projects, please visit the data files linked below or our [website](https://voices.uchicago.edu/healthallocate/). 
 
-`#0989DA`
-
 ### Heart Allocation Projects
 
 * [Center Variation in Survival Benefit](https://github.com/Healthcare-Allocation-Lab/mixed_effects_survival_benefit_heart_tx)
