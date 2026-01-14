@@ -3,7 +3,7 @@ Welcome to the GitHub repository for the Healthcare Allocation (HCA) Lab. The HC
 
 For more information on specific projects, please visit the data files linked below or our [website](https://voices.uchicago.edu/healthallocate/). 
 
-`#0969DA`
+`#0989DA`
 
 ### Heart Allocation Projects
 
