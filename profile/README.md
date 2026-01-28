@@ -7,7 +7,7 @@ For more information on specific projects, please visit the data files linked be
 
 * [Center Variation in Survival Benefit](https://github.com/Healthcare-Allocation-Lab/mixed_effects_survival_benefit_heart_tx)
 * [New Heart Allocation Policy](https://github.com/Healthcare-Allocation-Lab/new_heart_allocation_policy)
-* [Center Variation in High Priority Status](https://github.com/Healthcare-Allocation-Lab/geo_var_heart_tx_list_)
+* [Center Variation in High Priority Status](https://github.com/Healthcare-Allocation-Lab/geo_var_heart_tx_list)
 * [Post Transplant Survival After 2018 Policy Change](https://github.com/Healthcare-Allocation-Lab/post_transplant_survival_new_policy)
 * [Association of Exceptions with Waitlist Mortality](https://github.com/Healthcare-Allocation-Lab/heart_transplant_exceptions)
 * [Accuracy of Initial Heart Translant Rankings](https://github.com/Healthcare-Allocation-Lab/Heart-Transplant-Rankings)
