@@ -14,6 +14,7 @@ For more information on specific projects, please visit the data files linked be
 * [Post Transplant Survival for NRP vs. DPP](https://github.com/Healthcare-Allocation-Lab/nrp_dpp_heart_survival)
 * [Medical Urgency Score for Heart Transplant Candidates](https://github.com/Healthcare-Allocation-Lab/US-CRS-1.0)
 * [Association of Place-based Disadvantage Indices with Heart Waitlist Outcomes](https://github.com/Healthcare-Allocation-Lab/Place-Based-Index-Comparison-Heart-)
+* [Durable Left Ventricular Assist Device Dilemma in the New Heart Allocation System](https://github.com/Healthcare-Allocation-Lab/BTT-LVAD)
 
 ### Kidney Allocation Projects
 
